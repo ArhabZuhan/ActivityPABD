@@ -1,0 +1,7 @@
+C:\Users\Zuhan\source\repos\Create_Tabel\Create_Tabel\obj\Debug\Create_Tabel.csproj.AssemblyReference.cache
+C:\Users\Zuhan\source\repos\Create_Tabel\Create_Tabel\obj\Debug\Create_Tabel.csproj.CoreCompileInputs.cache
+C:\Users\Zuhan\source\repos\Create_Tabel\Create_Tabel\bin\Debug\Create_Tabel.exe.config
+C:\Users\Zuhan\source\repos\Create_Tabel\Create_Tabel\bin\Debug\Create_Tabel.exe
+C:\Users\Zuhan\source\repos\Create_Tabel\Create_Tabel\bin\Debug\Create_Tabel.pdb
+C:\Users\Zuhan\source\repos\Create_Tabel\Create_Tabel\obj\Debug\Create_Tabel.exe
+C:\Users\Zuhan\source\repos\Create_Tabel\Create_Tabel\obj\Debug\Create_Tabel.pdb
